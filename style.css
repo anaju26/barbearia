@@ -8,21 +8,32 @@ body {
     
     
     h1{
-    text-align: center;
+        text-align: center;
     }
     
-    p{
-    background: #cccccc;
+ p{
+    background: #FFFFFF;
+    padding: 30px;
     text-align: center;
-    }
+ }
     
-    missao{
+missao{
     front: size 20px;
     
-    em strong{
+ em strong{
     color:#FF0000;
     .itens{
-    font_style: italic:
+         font_style: italic:
+    }
+    .imagembeneficios {
+        width: 50%;
+    }
+
+    ul{
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
     }
     #missao {
     font-size: 20px;
